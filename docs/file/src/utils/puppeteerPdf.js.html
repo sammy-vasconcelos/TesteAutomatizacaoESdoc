@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl" href="../../../">
+  <title data-ice="title">src/utils/puppeteerPdf.js | Evolve</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<meta name="description" content="this is awesome library"><meta property="og:type" content="website"><meta property="og:url" content="http://my-library.org"><meta property="og:site_name" content="Evolve"><meta property="og:title" content="Evolve"><meta property="og:image" content="http://my-library.org/logo.png"><meta property="og:description" content="this is awesome library"><meta property="og:author" content="https://twitter.com/foo"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="Evolve"><meta property="twitter:description" content="this is awesome library"><meta property="twitter:image" content="http://my-library.org/logo.png"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/foo/bar"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#config">config</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/config/nodemailerConfig.js~Transporter.html">Transporter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#config-paymentconfig">config/paymentConfig</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-options">options</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#constants">constants</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/constants/constants.js~Constants.html">Constants</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#controllers-authcontrollers">controllers/authControllers</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-forgotPassController">forgotPassController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getBlackList">getBlackList</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-loginController">loginController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-logout">logout</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#controllers-exemplecontrollers">controllers/exempleControllers</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getExempleController">getExempleController</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#controllers-paymentcontrollers">controllers/paymentControllers</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-CreateCharge">CreateCharge</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-listChargesController">listChargesController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getPaymentStatus">getPaymentStatus</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#controllers-usercontrollers">controllers/userControllers</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-createCnpjController">createCnpjController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-createUserController">createUserController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-deleteUserController">deleteUserController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getByIdController">getByIdController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getCnpjController">getCnpjController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-getUserController">getUserController</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#database">database</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-connectionDB">connectionDB</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#enum">enum</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-paymentStatus">paymentStatus</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-responseStatus">responseStatus</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#middware">middware</a><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-verifyToken">verifyToken</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#models">models</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-blacklistModel">blacklistModel</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-cnpjModel">cnpjModel</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-payModel">payModel</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-userModel">userModel</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#router">router</a><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-authRouter">authRouter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-exempleRouter">exempleRouter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-paymentRouter">paymentRouter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-router">router</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-variable">V</span><span data-ice="name"><span><a href="variable/index.html#static-variable-registerRouter">registerRouter</a></span></span></li>
+<li data-ice="doc"><a data-ice="dirPath" class="nav-dir-path" href="identifiers.html#utils">utils</a><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/utils/crypt.js~Crypto.html">Crypto</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/utils/date.js~GetDate.html">GetDate</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/utils/passRandom.js~GeneratePass.html">GeneratePass</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/utils/transporter.js~Transporter.html">Transporter</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-sendConfirmEmail">sendConfirmEmail</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-ticketPdf">ticketPdf</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-qrCodeController">qrCodeController</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-templateEmailConfirm">templateEmailConfirm</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><h1 data-ice="title">src/utils/puppeteerPdf.js</h1>
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import puppeteer from &quot;puppeteer&quot;;
+import userModel from &quot;../models/userModel.js&quot;;
+import qrCodeController from &quot;./qrCodeController.js&quot;;
+import Constants from &quot;../constants/constants.js&quot;;
+
+async function ticketPdf(userId) {
+    const id = userId;
+    const dates = [27, 28, 29];
+    const colors = [`#F37C16`, `#8DCE25`, `#31C5F5`];
+    const hours = [&apos;17:30&apos;, &apos;08:00&apos;, &apos;08:00&apos;];
+
+    try {
+        const user = await userModel.findById(id);
+
+        if (id == null || id == undefined) {
+            return console.log(&apos;Usu&#xE1;rio n&#xE3;o encontrado&apos;);
+        }
+        if (!user) {
+            return console.log(&apos;Usu&#xE1;rio n&#xE3;o encontrado&apos;);
+        }
+
+        function upperInitials(text) {
+            var words = text.split(&quot; &quot;);
+            var upperList = [];
+
+            for (var i = 0; i &lt; words.length; i++) {
+                var word = words[i];
+                var capitalizedWord = word.charAt(0).toUpperCase() + word.slice(1);
+                upperList.push(capitalizedWord);
+            }
+
+            return upperList.join(&quot; &quot;);
+        }
+        const userName = upperInitials(user.userName);
+        const userCategory = upperInitials(user.userCategory);
+
+
+        async function createPdf(date, color, hour, qrCodeImg, browser) {
+            const page = await browser.newPage();
+
+            const html = `
+                    &lt;html&gt;
+                    &lt;head&gt;
+                    
+                    &lt;style&gt;
+                    @import url(${Constants.FontPdf});
+
+                        * {
+                        margin: 0px;
+                        padding: 0px;
+                    }
+                    
+                    #body{
+                        display: flex;
+                        flex-direction: column;
+                    }
+                    
+                    .corpoPdf{
+                        position: absolute;
+                        width: 485px;
+                        height: 771px;
+                        background-color: #FEEAE9;
+                        border-radius: 40px;
+                        overflow: hidden;
+                        
+                    }
+                    
+                    .contentParticipant{
+                        position: relative;
+                        display: flex;
+                        flex-direction: column;
+                        margin-top: 24px;
+                        margin-left: 30px;
+                        margin-right: 30px;
+                    }
+                    
+                    .logoFedrann{
+                        position: relative;
+                        width: 207.63px;
+                        height: 50.61px;
+                    }
+                    
+                    .bottomQR{
+                        display: flex;
+                        flex-direction: column;
+                        position: absolute;
+                        background-color: ${color};
+                        width: 485px;
+                        height: 384px;
+                        align-items: center;
+                        top: 387px;
+                    }
+                    
+                    .sociedadeCivil{
+                        position: relative;
+                        display: flex;
+                        flex-direction: row;
+                        margin-top: 23.4px;
+                    }
+                    
+                    .dataFromVar{
+                        position: relative;
+                        font-family: &apos;SST Typewriter&apos;, sans-serif;
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 15px;
+                        line-height: 20px;
+                        color: ${color};
+                    }
+                    
+                    .circle{
+                        position: absolute;
+                        width: 20px;
+                        height: 20px;
+                        background-color: ${color};
+                        border-radius: 40px;
+                        left: 410px;
+                    }
+                    
+                    .underline{
+                        width: 431px;
+                        height: 1px;
+                        background-color:rgba(0, 0, 0, 0.15) ;
+                    }
+                    
+                    .nameAndAddress{
+                        margin-top: 35px;
+                    }
+                    
+                    .underLineText{
+                        position: relative;
+                        font-family: &apos;SST Typewriter&apos;, sans-serif;
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 15px;
+                        line-height: 20px;
+                        color: rgba(0, 0, 0, 0.15);
+                    }
+                    
+                    .dateAndHour{
+                        display: flex;
+                        flex-direction: row;
+                        
+                    }
+                    
+                    .blocoDate{
+                        margin-top: 35px;
+                    }
+                    
+                    .blocoDate:last-child{
+                        margin-left: 20px;
+                    }
+                    
+                    .underlineDate{
+                        width: 205px;
+                        height: 1px;
+                        background-color:rgba(0, 0, 0, 0.15) ;  
+                    } 
+
+                    .bottomQR{
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                    }
+
+                    .qrCode{
+                        width: 250px;
+                    }
+                    
+                    &lt;/style&gt;
+                    &lt;/head&gt;
+                
+                    &lt;body&gt;
+                    &lt;div class=&quot;corpoPdf&quot;&gt;
+                        &lt;div class=&quot;contentParticipant&quot;&gt;
+                        &lt;img src=&quot;${Constants.LogoFedrannPdf}&quot; alt=&quot;Foto&quot; class=&quot;logoFedrann&quot;&gt;
+                        &lt;div class=&quot;sociedadeCivil&quot;&gt;
+                            &lt;p class=&quot;dataFromVar&quot;&gt;${userCategory}&lt;/p&gt;
+                            &lt;div class=&quot;circle&quot;&gt;&lt;/div&gt;
+                            &lt;/div&gt;
+                
+                            &lt;div class=&quot;nameAndAddress&quot;&gt;
+                            &lt;p class=&quot;dataFromVar&quot;&gt;Centro Universit&#xE1;rio UniFanor /// Campus Dunas&lt;/p&gt;
+                            &lt;div class=&quot;underline&quot;&gt;&lt;/div&gt;
+                            &lt;p class=&quot;underLineText&quot;&gt;ENDERE&#xC7;O&lt;/p&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;nameAndAddress&quot;&gt;
+                            &lt;p class=&quot;dataFromVar&quot;&gt;${userName}&lt;/p&gt;
+                            &lt;div class=&quot;underline&quot;&gt;&lt;/div&gt;
+                            &lt;p class=&quot;underLineText&quot;&gt;PARTICIPANTE&lt;/p&gt;
+                            &lt;/div&gt;
+                            
+                            &lt;div class=&quot;dateAndHour&quot;&gt;
+                            &lt;div class=&quot;blocoDate&quot;&gt;
+                                &lt;p class=&quot;dataFromVar&quot;&gt;${hour} /// GMT - 3 &lt;/p&gt;
+                                &lt;div class=&quot;underlineDate&quot;&gt;&lt;/div&gt;
+                                &lt;p class=&quot;underLineText&quot;&gt;HORARIO DE INICIO&lt;/p&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&quot;blocoDate&quot;&gt;
+                                &lt;p class=&quot;dataFromVar&quot;&gt;${date} de novembro &lt;/p&gt;
+                                &lt;div class=&quot;underlineDate&quot;&gt;&lt;/div&gt;
+                                &lt;p class=&quot;underLineText&quot;&gt;HORARIO DE INICIO&lt;/p&gt;
+                            &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;div class=&quot;bottomQR&quot;&gt;
+                            &lt;img src=&quot;${qrCodeImg}&quot; alt=&quot;&quot; class=&quot;qrCode&quot;&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;/body&gt;
+                    &lt;/html&gt;
+                    `
+            await page.setContent(html, { waitUntil: &apos;networkidle2&apos; });
+            const creatingPdf = await page.pdf({
+                margin: { top: &apos;25px&apos;, right: &apos;50px&apos;, bottom: &apos;25px&apos;, left: &apos;50px&apos; },
+                printBackground: true,
+                format: &apos;A5&apos;,
+            });
+            return creatingPdf;
+
+        };
+        const pdfs = [];
+        const browser = await puppeteer.launch({ headless: false });
+        const qrCodeImg = `data:image/jpeg;base64,${await qrCodeController(id)}`
+        
+        for (let i = 0; i &lt; dates.length; i++) {
+            pdfs.push(createPdf(dates[i], colors[i], hours[i], qrCodeImg, browser))
+        }
+
+        const createdPdfs = await Promise.all(pdfs);
+        await browser.close();
+        return createdPdfs;
+
+    } catch (error) {
+        return console.log(&quot;Error:&quot; + error);
+    }
+}
+
+export default ticketPdf;</code></pre>
+
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

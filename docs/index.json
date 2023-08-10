@@ -1,0 +1,2992 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 49,
+    "kind": "external",
+    "name": "http~ClientRequest",
+    "externalLink": "https://nodejs.org/dist/latest/docs/api/http.html#http_class_http_clientrequest",
+    "memberof": "src/.external-nodejs.js",
+    "static": true,
+    "longname": "src/.external-nodejs.js~http~ClientRequest",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/config/nodemailerConfig.js",
+    "content": "import nodemailer from 'nodemailer';\nimport dotenv from 'dotenv'\ndotenv.config()\n/**\n * Essa é a descrição do Transporter\n * @example\n * transporter = enviarnodemailer\n */\nclass Transporter{\n  constructor(){\n\n    function transporter(params) {\n      transporter = nodemailer.createTransport({\n        host: process.env.EMAILACCOUNT, // TODO: Colocar email oficial na env\n        service: 'hotmail',\n        auth: {\n          user: process.env.EMAILACCOUNT, // TODO: Colocar email oficial na env\n          pass: process.env.EMAILPASS // TODO: Colocar senha na env\n        }\n      });\n    }\n     \n  }\n\n\n}\n\nexport default Transporter;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/config/nodemailerConfig.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "class",
+    "name": "Transporter",
+    "memberof": "src/config/nodemailerConfig.js",
+    "static": true,
+    "longname": "src/config/nodemailerConfig.js~Transporter",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/config/nodemailerConfig.js",
+    "importStyle": "Transporter",
+    "description": "Essa é a descrição do Transporter",
+    "examples": [
+      "transporter = enviarnodemailer"
+    ],
+    "lineNumber": 9,
+    "interface": false
+  },
+  {
+    "__docId__": 52,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/config/nodemailerConfig.js~Transporter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/config/nodemailerConfig.js~Transporter#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/config/paymentConfig/PaymentAPIConfig.js",
+    "content": "import path from 'path';\nconst options = {\n    sandbox: false,\n    client_id: \"Client_Id_a9f7fe0c8bc6fdaf2eb87b4e831198345cb84bfd\",\n    client_secret: \"Client_Secret_a4324c915a6fa15d1fa7a2bca49eca095e116f6e\",\n    certificate: path.resolve() + \"/src/config/paymentConfig/producao-417995-Congresso.p12\"\n}\nexport default options\n",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/config/paymentConfig/PaymentAPIConfig.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "options",
+    "memberof": "src/config/paymentConfig/PaymentAPIConfig.js",
+    "static": true,
+    "longname": "src/config/paymentConfig/PaymentAPIConfig.js~options",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/config/paymentConfig/PaymentAPIConfig.js",
+    "importStyle": "options",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"sandbox\": *, \"client_id\": string, \"client_secret\": string, \"certificate\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/constants/constants.js",
+    "content": "class Constants {\n      static get FontPdf() {\n        return 'https://fonts.cdnfonts.com/css/sst-typewriter';\n      }\n      static get LogoFedrannPdf() {\n        return \"https://cdn.discordapp.com/attachments/973237631959855234/1118854023995465758/Logo_1.png\";\n      }\n      static get LecturePhoto() {\n        return \"https://cdn.discordapp.com/attachments/973237631959855234/1121098716846227526/DSC05369_1.png\";\n      }\n      static get LockPhoto() {\n        return \"https://cdn.discordapp.com/attachments/973237631959855234/1121430756191899808/cadeado_complexo_2.png\";\n      }\n      static get TicketPhoto() {\n        return \"https://cdn.discordapp.com/attachments/973237631959855234/1121430325575286904/ticket.png\";\n      }\n      static get ClockPhoto() {\n        return \"https://cdn.discordapp.com/attachments/973237631959855234/1121102237108813864/Rectangle_3.png\";\n      }\n      static get FontConfirmEmail() {\n        return \"https://fonts.googleapis.com/css2?family=Cardo&family=Lato:wght@100;300;400&display=swap\";\n      }\n      static get ArrowEmail() {\n        return \"https://cdn.discordapp.com/attachments/973237631959855234/1121759694952857610/Clip_path_group.png\";\n      }\n}\n\n\nexport default Constants;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/constants/constants.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "class",
+    "name": "Constants",
+    "memberof": "src/constants/constants.js",
+    "static": true,
+    "longname": "src/constants/constants.js~Constants",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/constants/constants.js",
+    "importStyle": "Constants",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 57,
+    "kind": "get",
+    "name": "FontPdf",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.FontPdf",
+    "access": "public",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "get",
+    "name": "LogoFedrannPdf",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.LogoFedrannPdf",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "get",
+    "name": "LecturePhoto",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.LecturePhoto",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "get",
+    "name": "LockPhoto",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.LockPhoto",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "get",
+    "name": "TicketPhoto",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.TicketPhoto",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "get",
+    "name": "ClockPhoto",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.ClockPhoto",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "get",
+    "name": "FontConfirmEmail",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.FontConfirmEmail",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "get",
+    "name": "ArrowEmail",
+    "memberof": "src/constants/constants.js~Constants",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/constants/constants.js~Constants.ArrowEmail",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "src/controllers/authControllers/forgotPassController.js",
+    "content": "import userModel from \"../../models/userModel.js\";\nimport GeneratePass from \"../../utils/passRandom.js\";\nimport Crypto from \"../../utils/crypt.js\";\nimport transporter from \"../../config/nodemailerConfig.js\";\nimport GetDate from \"../../utils/date.js\";\n\n/**\n * Essa função pe feita para que o user consiga receber um email para efetuar a troca de senha\n * @param {string} req \n * @param {string} res \n * @returns Um email para trocar a senha\n * @throws #### Resposta de Sucesso\n![SUCCESS](https://img.shields.io/static/v1?label=STATUS&message=200%20OK&color=<COLOR>)\n\nRetorno esperado:\n\n```json \n{\n\t\"message\": {\n\t\t\"user\": {\n\t\t\t\"_id\": \"646f8fb49554966f60357b74\",\n\t\t\t\"userName\": \"flavia sousa\",\n\t\t\t\"userCpf\": \"01234567890\",\n\t\t\t\"userAddress\": \"rua das cerejeiras, 123\",\n\t\t\t\"userPhone\": \"85987654321\",\n\t\t\t\"userEmail\": \"flavia@email.com\",\n\t\t\t\"userGender\": \"feminino\",\n\t\t\t\"userEthnicity\": \"outro\",\n\t\t\t\"howFindOut\": \"instagram\",\n\t\t\t\"userCategory\": \"associação\",\n\t\t\t\"password\": \"pass\",\n\t\t\t\"payStatus\": [],\n\t\t\t\"createdAt\": \"2023-05-25T16:41:24.640Z\",\n\t\t\t\"updatedAt\": \"2023-05-25T16:41:24.640Z\",\n\t\t\t\"__v\": 0\n\t\t},\n\t\t\"cnpj\": {\n\t\t\t\"_id\": \"646f8ff19554966f60357b78\",\n\t\t\t\"userId\": \"646f8fb49554966f60357b74\",\n\t\t\t\"cnpjName\": \"associacao\",\n\t\t\t\"cnpj\": \"12315164648494\",\n\t\t\t\"cnpjPhone\": \"85123456789\",\n\t\t\t\"cnpjAddress\": \"rua da associacao\",\n\t\t\t\"cnpjEmail\": \"associacao@email.com\",\n\t\t\t\"createdAt\": \"2023-05-25T16:42:25.770Z\",\n\t\t\t\"updatedAt\": \"2023-05-25T16:42:25.770Z\",\n\t\t\t\"__v\": 0\n\t\t}\n\t}\n}\n```\n#### Resposta de Erro\n![SUCCESS](https://img.shields.io/static/v1?label=STATUS&message=500&color=red)\n\nRetorno esperado:\n```json\n{ \n\t\"message\":  \"Erro ao buscar usuário\" \n}\n```\n *  @throws res.status(404).json({ code: \"Failure\", message: \"Usuário não encontrado!\" });\n*/\nasync function forgotPassController(req, res) {\n    /**\n     * @type {any}\n     */\n    const getDate = new GetDate();\n    const date = getDate.getDate();\n    try {\n        const userEmail = req.body.userEmail;\n\n        const generatePass = new GeneratePass();\n        const password = await generatePass.generatePass();\n\n        const user = await userModel.findOne({ 'userEmail': userEmail });\n        if (!user) {\n            \n            res.status(404).json({ code: \"Failure\", message: \"Usuário não encontrado!\" });\n        }\n        const emailString = String(userEmail);\n\n        let options = {\n            from: \"flavicastelocc@gmail.com\",  //TODO: Colocar o email oficial\n            to: emailString,\n            subject: \"Solicitação de mudança de senha\",\n            html: `<h1>Sua nova senha</h1> <br> ${password}`,\n\n        };\n\n       transporter.sendMail(options, async function (error, info) {\n            if (error) {\n                console.log(date + ':' + error);\n                res.status(490).json({ code: \"Failure\", message: \"Erro ao enviar o email\", error })\n            }\n            const crypt = new Crypto();\n            const passwordHash = await crypt.cryptPass(password);\n    \n            const responseForgotPass = await userModel.findByIdAndUpdate(user.id, {\n                $set: {\n                    userName: user.userName,\n                    userCpf: user.userCpf,\n                    userAddress: user.userAddress,\n                    userPhone: user.userPhone,\n                    userEmail: user.userEmail,\n                    userGender: user.userGender,\n                    userEthnicity: user.userEthnicity,\n                    howFindOut: user.howFindOut,\n                    userCategory: user.userCategory,\n                    password: passwordHash,\n                }\n            });\n            res.status(201).json({ code: \"Success\", responseForgotPass, message: \"Senha alterada com sucesso!\", info });\n        })\n        \n\n       \n\n    } catch (error) {\n        console.log(date + ':' + error);\n        return res.status(500).json({ code: \"Failure\", message: \"Erro interno do servidor\" });\n    }\n\n\n}\n\nexport default forgotPassController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/authControllers/forgotPassController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "forgotPassController",
+    "memberof": "src/controllers/authControllers/forgotPassController.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/authControllers/forgotPassController.js~forgotPassController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/authControllers/forgotPassController.js",
+    "importStyle": "forgotPassController",
+    "description": "Essa função pe feita para que o user consiga receber um email para efetuar a troca de senha",
+    "lineNumber": 63,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "Um email para trocar a senha"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "*"
+      ],
+      "spread": false,
+      "description": "Um email para trocar a senha"
+    },
+    "throws": [
+      {
+        "types": [
+          "*"
+        ],
+        "description": "#### Resposta de Sucesso\n![SUCCESS](https://img.shields.io/static/v1?label=STATUS&message=200%20OK&color=<COLOR>)\n\nRetorno esperado:\n\n```json \n{\n\"message\": {\n\"user\": {\n\"_id\": \"646f8fb49554966f60357b74\",\n\"userName\": \"flavia sousa\",\n\"userCpf\": \"01234567890\",\n\"userAddress\": \"rua das cerejeiras, 123\",\n\"userPhone\": \"85987654321\",\n\"userEmail\": \"flavia@email.com\",\n\"userGender\": \"feminino\",\n\"userEthnicity\": \"outro\",\n\"howFindOut\": \"instagram\",\n\"userCategory\": \"associação\",\n\"password\": \"pass\",\n\"payStatus\": [],\n\"createdAt\": \"2023-05-25T16:41:24.640Z\",\n\"updatedAt\": \"2023-05-25T16:41:24.640Z\",\n\"__v\": 0\n},\n\"cnpj\": {\n\"_id\": \"646f8ff19554966f60357b78\",\n\"userId\": \"646f8fb49554966f60357b74\",\n\"cnpjName\": \"associacao\",\n\"cnpj\": \"12315164648494\",\n\"cnpjPhone\": \"85123456789\",\n\"cnpjAddress\": \"rua da associacao\",\n\"cnpjEmail\": \"associacao@email.com\",\n\"createdAt\": \"2023-05-25T16:42:25.770Z\",\n\"updatedAt\": \"2023-05-25T16:42:25.770Z\",\n\"__v\": 0\n}\n}\n}\n```\n#### Resposta de Erro\n![SUCCESS](https://img.shields.io/static/v1?label=STATUS&message=500&color=red)\n\nRetorno esperado:\n```json\n{ \n\"message\":  \"Erro ao buscar usuário\" \n}\n```"
+      },
+      {
+        "types": [
+          "*"
+        ],
+        "description": "res.status(404).json({ code: \"Failure\", message: \"Usuário não encontrado!\" });"
+      }
+    ]
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/controllers/authControllers/getblacklist.js",
+    "content": "import { now } from \"mongoose\";\nimport blacklistModel from \"../../models/blacklistModel.js\";\nimport GetDate from \"../../utils/date.js\";\n\nasync function getBlackList(req, res) {\n    const getDate = new GetDate();\n    const date = getDate.getDate();\n    \n    try {\n        const blacklist = await blacklistModel.find();\n        res.status(201).json({ code: \"success\", message: blacklist });\n    } catch (error) {\n        console.log(date + ':' + error);\n        res.status(500).json({ code: \"Failure\", message: \"Internal server error\", error })\n    }\n}\n\nexport default getBlackList;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/authControllers/getblacklist.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "function",
+    "name": "getBlackList",
+    "memberof": "src/controllers/authControllers/getblacklist.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/authControllers/getblacklist.js~getBlackList",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/authControllers/getblacklist.js",
+    "importStyle": "getBlackList",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/controllers/authControllers/loginController.js",
+    "content": "import Crypto from '../../utils/crypt.js';\nimport userModel from '../../models/userModel.js';\nimport GetDate from \"../../utils/date.js\";\n\nasync function loginController(req, res){\n    const getDate = new GetDate();\n    const date = getDate.getDate();\n    try {\n        const email = req.body.userEmail;\n        const pass = req.body.password;\n        const crypt = new Crypto();\n\n        if(!email){\n            return res.status(422).json({code: \"Failure\", message: 'Email obrigatório!' });\n        }\n        if(!pass){\n            return res.status(422).json({code: \"Failure\", message: 'Senha obrigatório!' });\n        }\n\n        const user = await userModel.findOne({ 'userEmail': email});\n\n        if(!user || user == null){\n            return res.status(404).json({code: 'Failure', message: \"Usuário não encontrado!\"});\n        }\n        const checkPass = crypt.checkPassWord(pass, user.password);\n        if (checkPass == false) {\n            return res.status(422).json({code: 'Failure', message: \"Usuário ou senha inválidos!\"});\n        }\n\n        if(user.userEmail == email && checkPass == true){\n            const token = crypt.createToken(user, 900);\n            const timeExpiration = crypt.expirationToken(token);\n            return res.status(200).json({message: \"Login feito com sucesso\", \"user\":user,\"token\":token, \"tempo de expiração\": timeExpiration});\n        }\n\n    } catch (error) {\n        console.log(date + ':' + error);\n        return res.status(500).json({code: \"Failure\", message: \"Não foi possível fazer o login\" }); \n    }\n}\n\nexport default loginController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/authControllers/loginController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "loginController",
+    "memberof": "src/controllers/authControllers/loginController.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/authControllers/loginController.js~loginController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/authControllers/loginController.js",
+    "importStyle": "loginController",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/controllers/authControllers/logoutController.js",
+    "content": "import blacklistModel from '../../models/blacklistModel.js';\nimport GetDate from \"../../utils/date.js\";\n\nasync function logout(req, res) {\n  const getDate = new GetDate();\n  const date = getDate.getDate();\n  \n  try {\n    const authHeader = req.headers.authorization;\n    const token = authHeader && authHeader.split(\" \")[1];\n\n    if (token) {\n      const tokenExists = await blacklistModel.findOne({ 'token': token });\n\n      if (tokenExists) {\n        return res.status(422).json({ code: \"Failure\", message: \"Você já deslogou.\" });\n      }\n      const blacklistItem = new blacklistModel({ token });\n      const responseBlacklist = await blacklistItem.save();\n      res.status(201).json({ code: \"success\", responseBlacklist, message: \"Token enviado com sucesso!\" });\n\n    } else {\n      return res.status(404).json({ code: 'Failure', message: 'Token não encontrado' });\n    }\n\n  } catch (error) {\n    console.log(date + ':' + error);\n    return res.status(500).json({code: \"Failure\", message: \"Erro interno do servidor\" });\n  }\n\n\n}\n\nexport default logout;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/authControllers/logoutController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "function",
+    "name": "logout",
+    "memberof": "src/controllers/authControllers/logoutController.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/authControllers/logoutController.js~logout",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/authControllers/logoutController.js",
+    "importStyle": "logout",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "file",
+    "name": "src/controllers/exempleControllers/exemple.js",
+    "content": "async function getExempleController(req, res){\n    res.status(200).json({message: \"Hello world =)\"})\n}\nexport default getExempleController",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/exempleControllers/exemple.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 74,
+    "kind": "function",
+    "name": "getExempleController",
+    "memberof": "src/controllers/exempleControllers/exemple.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/exempleControllers/exemple.js~getExempleController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/exempleControllers/exemple.js",
+    "importStyle": "getExempleController",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "src/controllers/paymentControllers/createCharge.js",
+    "content": "import Gerencianet from \"gn-api-sdk-node\"\nimport options from \"../../config/paymentConfig/PaymentAPIConfig.js\"\nimport paymentStatus from \"../../enum/paymentStatusEnum.js\"\nimport payModel from \"../../models/payModel.js\"\nimport userModel from \"../../models/userModel.js\"\nasync function CreateCharge (req,res){\n    try{\n        const gerencianet = new Gerencianet(options)\n        const {id, name, cpf, value} = req.body\n        \n        if(!id) return res.status(422).json({code: \"Failure\", message: \"id is missing\"})\n        if(!name) return res.status(422).json({code: \"Failure\", message: \"name is missing\"})\n        if(!cpf) return res.status(422).json({code: \"Failure\", message: \"cpf is missing\"})\n        if(!value) return res.status(422).json({code: \"Failure\", message: \"value is missing\"})\n        const chargeBody = {\n            calendario: {\n                expiracao: 10368000\n            },\n            devedor: {\n                cpf: cpf.replace(/\\D/g, ''),\n                nome: name\n            },\n            valor: {\n                original: parseFloat(value).toFixed(2)\n            },\n            chave: process.env.CHAVE_PIX,\n\n        }\n\n       const response = await gerencianet.pixCreateImmediateCharge([], chargeBody)\n       const params = {\n        id: response.loc.id\n       }\n       const qrcodepix = await gerencianet.pixGenerateQRCode(params)\n       const paymentData = {\n        userId: id,\n        pixId: response.loc.id,\n        QRCodeImage: qrcodepix.imagemQrcode,\n        txid: response.txid,\n        copiaecola: qrcodepix.qrcode,\n        status: paymentStatus.notPaid,\n        value: value,\n    }   \n\n        const userDoesntExists = await userModel.findById(id)\n        if(userDoesntExists === null || userDoesntExists === undefined){\n            return res.status(400).json({code: \"Failure\", message: \"User doenst exists.\"})\n        }\n        const paymentAlreadyExists = await payModel.findOne({'userId': id})\n        if(paymentAlreadyExists !== null && paymentAlreadyExists !== undefined){\n           return res.status(400).json({code: \"Failure\", message: \"user already has a linked payment\"})\n        }\n        const payment = await payModel.create(paymentData)\n        const user = await userModel.findOneAndUpdate({_id: id}, {payStatus: payment._id})\n        return res.status(201).json({\n              code: \"success\",\n              message: payment,\n              test: qrcodepix\n              })\n    }catch(error){\n        console.log(error)\n        res.status(500).json({code: \"Failure\", message: error})\n    }\n\n\n}\nexport default CreateCharge",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/paymentControllers/createCharge.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "CreateCharge",
+    "memberof": "src/controllers/paymentControllers/createCharge.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/paymentControllers/createCharge.js~CreateCharge",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/paymentControllers/createCharge.js",
+    "importStyle": "CreateCharge",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/controllers/paymentControllers/listCharges.js",
+    "content": "import payModel  from \"../../models/payModel.js\";\nasync function listChargesController (req, res){\n    \n    try {\n        const pay = await payModel.find().populate('userId');\n        return res.status(200).json({code: \"success\", message: pay});\n    } catch (error) {\n        console.log(error);\n        return res.status(500).json({code: \"Failure\", message: error});\n    }\n}\n\nexport default listChargesController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/paymentControllers/listCharges.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "function",
+    "name": "listChargesController",
+    "memberof": "src/controllers/paymentControllers/listCharges.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/paymentControllers/listCharges.js~listChargesController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/paymentControllers/listCharges.js",
+    "importStyle": "listChargesController",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "file",
+    "name": "src/controllers/paymentControllers/paymentStatus.js",
+    "content": "import Gerencianet from 'gn-api-sdk-node'\nimport options from '../../config/paymentConfig/PaymentAPIConfig.js'\nimport payModel from '../../models/payModel.js'\nimport paymentStatus from '../../enum/paymentStatusEnum.js'\nimport responseStatus from '../../enum/responseStatusEnum.js'\n\n\nasync function getPaymentStatus(req, res){\ntry{\n    let params = {\n        txid: req.params.txid,\n    }\n    \n    const gerencianet = new Gerencianet(options)\n    \n    const response = await gerencianet.pixDetailCharge(params)\n    switch(response.status){\n        case responseStatus.paid:\n            await payModel.findOneAndUpdate(params, {status: paymentStatus.paid})\n            break;\n        case responseStatus.notPaid:\n            await payModel.findOneAndUpdate(params, {status: paymentStatus.notPaid})\n            break;\n        default:\n            await payModel.findOneAndUpdate(params, {status: paymentStatus.expired})\n            break;\n    }\n        \n    res.status(200).json({message: response})\n}\n    catch(err){\n        res.status(500).json({code: \"Failure\", error: err}) \n    }\n}\nexport default getPaymentStatus",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/paymentControllers/paymentStatus.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 80,
+    "kind": "function",
+    "name": "getPaymentStatus",
+    "memberof": "src/controllers/paymentControllers/paymentStatus.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/paymentControllers/paymentStatus.js~getPaymentStatus",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/paymentControllers/paymentStatus.js",
+    "importStyle": "getPaymentStatus",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 81,
+    "kind": "file",
+    "name": "src/controllers/userControllers/createCnpj.js",
+    "content": "import cnpjModel from \"../../models/cnpjModel.js\";\n\nasync function createCnpjController(req, res) {\n\n    try {\n        \n        const cnpj = {\n            userId: req.body.userId,\n            cnpjName: req.body.cnpjName,\n            cnpj: req.body.cnpj,\n            cnpjPhone: req.body.cnpjPhone,\n            cnpjAddress:req.body.cnpjAddress,\n            cnpjEmail: req.body.cnpjEmail,\n        }\n        \n        if(!cnpj.cnpjName){\n            return res.status(422).json({code: \"Failure\", message: 'Nome da instituição obrigatório!' });\n        }\n        if(!cnpj.cnpjEmail){\n            return res.status(422).json({code: \"Failure\", message: 'Email da instituição obrigatório!' });\n        }\n        if(!cnpj.cnpj){\n            return res.status(422).json({code: \"Failure\", message: 'CNPJ da instituição obrigatório!' });\n        }\n        if(!cnpj.cnpjAddress){\n            return res.status(422).json({code: \"Failure\", message: 'Endereço da instituição obrigatório!' });\n        }\n        if(!cnpj.cnpjPhone){\n            return res.status(422).json({code: \"Failure\", message: 'Telefone da instituição obrigatório!' });\n        }\n        \n        const cnpjExists = await cnpjModel.findOne({ 'cnpjEmail': cnpj.cnpjEmail });\n        const userIdExists = await cnpjModel.findOne({ 'userId': cnpj.userId });\n        if (cnpjExists) {\n            return res.status(422).json({code: \"Failure\", message: \"Esse e-mail já está cadastrado, por favor, tente outro.\" });\n        }\n        if (userIdExists) {\n            return res.status(422).json({code: \"Failure\",message: \"Esta pessoa já tem uma instituição cadastrada.\" });\n        }\n        \n        const responseCnpj = await cnpjModel.create(cnpj);\n        res.status(201).json({code: \"success\", responseCnpj, message: \"Usuário com instituição criado com sucesso!\" });\n    } catch (error) {\n        console.log(error);\n        return res.status(500).json({code: \"Failure\", message: \"Erro interno do servidor\" });\n    }\n\n};\n\nexport default createCnpjController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/userControllers/createCnpj.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 82,
+    "kind": "function",
+    "name": "createCnpjController",
+    "memberof": "src/controllers/userControllers/createCnpj.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/userControllers/createCnpj.js~createCnpjController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/userControllers/createCnpj.js",
+    "importStyle": "createCnpjController",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "file",
+    "name": "src/controllers/userControllers/createUser.js",
+    "content": "import userModel from \"../../models/userModel.js\";\nimport Crypto from \"../../utils/crypt.js\";\nimport GeneratePass from \"../../utils/passRandom.js\";\nimport GetDate from \"../../utils/date.js\";\nimport sendConfirmEmail from \"../../utils/confirmEmail.js\";\nimport transporter from \"../../config/nodemailerConfig.js\";\n\nasync function createUserController(req, res) {\n    const generatePass = new GeneratePass();\n    const password = await generatePass.generatePass();\n\n    const getDate = new GetDate();\n    const date = getDate.getDate();\n\n    try {\n        const user = {\n            userName: req.body.userName,\n            userCpf: req.body.userCpf,\n            userAddress: req.body.userAddress,\n            userPhone: req.body.userPhone,\n            userEmail: req.body.userEmail,\n            userGender: req.body.userGender,\n            userEthnicity: req.body.userEthnicity,\n            howFindOut: req.body.howFindOut,\n            userCategory: req.body.userCategory,\n            password: password,\n        };\n\n        if (!user.userName) {\n            return res.status(422).json({ code: \"Failure\", message: 'Nome obrigatório!' });\n        }\n        if (!user.userCpf) {\n            return res.status(422).json({ code: \"Failure\", message: 'CPF obrigatório!' });\n        }\n        if (!user.userAddress) {\n            return res.status(422).json({ code: \"Failure\", message: 'Endereço obrigatório!' });\n        }\n        if (!user.userPhone) {\n            return res.status(422).json({ code: \"Failure\", message: 'Telefone obrigatório!' });\n        }\n        if (!user.userEmail) {\n            return res.status(422).json({ code: \"Failure\", message: 'Email obrigatório!' });\n        }\n        if (!user.userGender) {\n            return res.status(422).json({ code: \"Failure\", message: 'Gênero obrigatório!' });\n        }\n        if (!user.userEthnicity) {\n            return res.status(422).json({ code: \"Failure\", message: 'Grupo étnico obrigatório!' });\n        }\n        if (!user.howFindOut) {\n            return res.status(422).json({ code: \"Failure\", message: 'Como achou o evento obrigatório!' });\n        }\n        if (!user.userCategory) {\n            return res.status(422).json({ code: \"Failure\", message: 'Categoria obrigatório!' });\n        }\n\n\n        const userExists = await userModel.findOne({ 'userEmail': user.userEmail });\n        if (userExists) {\n            return res.status(422).json({ code: \"Failure\", message: \"Esse e-mail já está cadastrado, por favor, tente outro.\" });\n        }\n        const crypt = new Crypto();\n\n        const passwordHash = await crypt.cryptPass(user.password);\n\n        const userHash = new userModel({\n            userName: user.userName,\n            userCpf: user.userCpf,\n            userAddress: user.userAddress,\n            userPhone: user.userPhone,\n            userEmail: user.userEmail,\n            userGender: user.userGender,\n            userEthnicity: user.userEthnicity,\n            howFindOut: user.howFindOut,\n            userCategory: user.userCategory,\n            password: passwordHash,\n        })\n\n        const responseUser = await userModel.create(userHash);\n        const options = await sendConfirmEmail(responseUser._id, password);\n           transporter.sendMail(options,\n              async function (error, info) {\n                    try {\n                        if(error){\n                            const deleteUser = await userModel.findByIdAndDelete(responseUser._id)\n                            return res.status(422).json({code: \"Failure\", message: \"Erro ao enviar email, tente novamente.\", error});\n                          \n                        }\n                        res.status(201).json({ code: \"Success\", responseUser, message: \"Usuário criado com sucesso e email enviado!\" });\n                    } catch (error) {\n                       return res.status(500).json({code: \"Failure\", message: \"Erro interno do sevidor\", error});\n                    }\n                })\n            \n    } catch (error) {\n        console.log(date + ':' + error);\n        return res.status(500).json({ code: \"Failure\", message: \"Erro interno do servidor\" });\n    }\n\n};\n\nexport default createUserController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/userControllers/createUser.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 84,
+    "kind": "function",
+    "name": "createUserController",
+    "memberof": "src/controllers/userControllers/createUser.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/userControllers/createUser.js~createUserController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/userControllers/createUser.js",
+    "importStyle": "createUserController",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "file",
+    "name": "src/controllers/userControllers/deleteUser.js",
+    "content": "import userModel from \"../../models/userModel.js\"\nimport payModel from \"../../models/payModel.js\"\n\nasync function deleteUserController(req, res){\n    const id = req.params.userId\n    const user = await userModel.findById(id).populate(\"payStatus\")\n    \n    \n    try{\n        \n        if(!user){\n           return res.status(404).json({code: \"Failure\", message: \"Usuário não encontrado.\"})\n        }\n        if(id == null || id == undefined){\n            return res.status(404).json({code: \"Failure\", message: \"Usuário não encontrado.\"})\n        }\n        if(user.payStatus == null){\n            return res.status(422).json({code: \"Failure\", message: \"Pagamento não solicitado.\"})\n        }\n        if(user.payStatus.status !== \"aprovado\"){\n            return res.status(422).json({code: \"Failure\", message: \"Pagamento não efetuado.\"})\n        } else {\n            const payId = user.payStatus._id\n            const payment = payId.toString();\n            const deletedPayment = await payModel.findByIdAndDelete(payment)\n            const deleteUser = await userModel.findByIdAndDelete(id)\n            return res.status(200).json({code: \"Success\", message: \"Usuário deletado com sucesso\", deleteUser})\n        }\n\n    }catch(err){\n        console.log(err)\n        res.status(500).json({code: \"Failure\", message: \"Erro interno do servidor\"})\n    }\n}\nexport default deleteUserController",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/userControllers/deleteUser.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 86,
+    "kind": "function",
+    "name": "deleteUserController",
+    "memberof": "src/controllers/userControllers/deleteUser.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/userControllers/deleteUser.js~deleteUserController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/userControllers/deleteUser.js",
+    "importStyle": "deleteUserController",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "file",
+    "name": "src/controllers/userControllers/getById.js",
+    "content": "import cnpjModel from \"../../models/cnpjModel.js\";\nimport userModel from \"../../models/userModel.js\";\n\nasync function getByIdController(req, res) {\n  const userId = req.params.userId; \n\n  try {\n    const user = await userModel.findById(userId);\n    const cnpj = await cnpjModel.findOne({ userId: userId });\n    if (!user) {\n      return res.status(404).json({ message: \"Usuário não encontrado\" });\n    }\n    res.status(200).json({ message: {user, cnpj}});\n  } catch (error) {\n    return res.status(500).json({ message: \"Erro ao buscar usuário\" });\n  }\n}\n\nexport default getByIdController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/userControllers/getById.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 88,
+    "kind": "function",
+    "name": "getByIdController",
+    "memberof": "src/controllers/userControllers/getById.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/userControllers/getById.js~getByIdController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/userControllers/getById.js",
+    "importStyle": "getByIdController",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "src/controllers/userControllers/getCnpj.js",
+    "content": "import cnpjModel from \"../../models/cnpjModel.js\"\n\nasync function getCnpjController (req, res){\n    \n    try {\n        const cnpj = await cnpjModel.find();\n        res.status(201).json({message: cnpj});\n    } catch (error) {\n        return res.status(500).json({ message: \"Erro interno do servidor\" });\n    }\n}\n\nexport default getCnpjController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/userControllers/getCnpj.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "function",
+    "name": "getCnpjController",
+    "memberof": "src/controllers/userControllers/getCnpj.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/userControllers/getCnpj.js~getCnpjController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/userControllers/getCnpj.js",
+    "importStyle": "getCnpjController",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 91,
+    "kind": "file",
+    "name": "src/controllers/userControllers/getUser.js",
+    "content": "import userModel  from \"../../models/userModel.js\";\n\nasync function getUserController (req, res){\n    \n    try {\n        const user = await userModel.find().populate('payStatus');\n        res.status(201).json({code: \"success\", message: user});\n    } catch (error) {\n        console.log(error);\n        res.status(500).json({code: \"Failure\", message: \"Internal server error\"})\n    }\n}\n\nexport default getUserController;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/controllers/userControllers/getUser.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 92,
+    "kind": "function",
+    "name": "getUserController",
+    "memberof": "src/controllers/userControllers/getUser.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/controllers/userControllers/getUser.js~getUserController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/controllers/userControllers/getUser.js",
+    "importStyle": "getUserController",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 93,
+    "kind": "file",
+    "name": "src/database/index.js",
+    "content": "import { connect } from \"mongoose\";\n\nasync function connectionDB(){\n    try {\n        const atlas = process.env.ATLAS;\n        await connect(atlas);\n        console.log(\"Conectado ao Banco de Dados\");\n    } catch (error) {\n        console.log(`Erro: ${error}`);\n    }\n}\n\nexport default connectionDB;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/database/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 94,
+    "kind": "function",
+    "name": "connectionDB",
+    "memberof": "src/database/index.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/database/index.js~connectionDB",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/database/index.js",
+    "importStyle": "connectionDB",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 95,
+    "kind": "file",
+    "name": "src/enum/paymentStatusEnum.js",
+    "content": "const paymentStatus = {\n    paid: \"APROVADO\",\n    notPaid: \"EM_ANALISE\",\n    expired: \"EXPIRADO\"\n\n}\nexport default paymentStatus",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/enum/paymentStatusEnum.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 96,
+    "kind": "variable",
+    "name": "paymentStatus",
+    "memberof": "src/enum/paymentStatusEnum.js",
+    "static": true,
+    "longname": "src/enum/paymentStatusEnum.js~paymentStatus",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/enum/paymentStatusEnum.js",
+    "importStyle": "paymentStatus",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"paid\": string, \"notPaid\": string, \"expired\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 97,
+    "kind": "file",
+    "name": "src/enum/responseStatusEnum.js",
+    "content": "const responseStatus = {\n    paid: \"CONCLUIDA\",\n    notPaid: \"ATIVA\",\n    expired: \"EXPIRADA\"\n\n}\nexport default responseStatus",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/enum/responseStatusEnum.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 98,
+    "kind": "variable",
+    "name": "responseStatus",
+    "memberof": "src/enum/responseStatusEnum.js",
+    "static": true,
+    "longname": "src/enum/responseStatusEnum.js~responseStatus",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/enum/responseStatusEnum.js",
+    "importStyle": "responseStatus",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"paid\": string, \"notPaid\": string, \"expired\": string}"
+      ]
+    }
+  },
+  {
+    "__docId__": 99,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import express from 'express'\nimport dotenv from 'dotenv'\nimport connectionDB from './database/index.js';\nimport  router  from \"./router/router.js\";\nimport exempleRouter from './router/exemple.js';\n\nconst app = express();\ndotenv.config();\n\napp.use(express.json());\napp.use(express.urlencoded({ extended: false }));\nconnectionDB();\napp.use('/api', router);\napp.use(\"/test\", exempleRouter)\nconst port = process.env.PORT || 3000;\napp.listen(port, () => {\n  console.log(`Servidor rodando na porta ${port}`);\n});",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 100,
+    "kind": "variable",
+    "name": "app",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~app",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 101,
+    "kind": "variable",
+    "name": "port",
+    "memberof": "src/index.js",
+    "static": true,
+    "longname": "src/index.js~port",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/index.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 102,
+    "kind": "file",
+    "name": "src/middware/authMiddware.js",
+    "content": "import jwt from \"jsonwebtoken\";\nimport blacklistModel from '../models/blacklistModel.js';\n\nasync function verifyToken(req, res, next) {\n  const authHeader = req.headers.authorization;\n  const token = authHeader && authHeader.split(\" \")[1];\n  console.log(token);\n\n  try {\n    if (!token) {\n      return res.status(401).json({ msg: \"Sem permissão para acesso! Token não fornecido\" });\n    }\n\n    const tokenExists = await blacklistModel.findOne({ token }).exec();\n\n    console.log(tokenExists);\n    if (tokenExists) {\n      return res.status(401).json({ msg: \"Sem permissão para acesso! Logue novamente!\" });\n    }\n\n    const secret = process.env.SECRET;\n\n    jwt.verify(token, secret, (err, decoded) => {\n      if (err) {\n        return res.status(401).json({ msg: \"Sem permissão para acesso!\", err });\n      }\n      req.userId = decoded.userId;\n      next();\n    });\n  } catch (error) {\n    return res.status(500).json({ msg: \"Erro ao verificar o token\", error });\n  }\n}\n\n\n\nexport default verifyToken;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/middware/authMiddware.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 103,
+    "kind": "function",
+    "name": "verifyToken",
+    "memberof": "src/middware/authMiddware.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/middware/authMiddware.js~verifyToken",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/middware/authMiddware.js",
+    "importStyle": "verifyToken",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "req",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "res",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "next",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "file",
+    "name": "src/models/blacklistModel.js",
+    "content": "import mongoose from \"mongoose\";\n\nconst {Schema} = mongoose;\nconst token ={\n    type: String,\n    required: true,\n}\nconst createdAt = {\n    type:Date,\n    default:Date.now,\n}\n\nconst BlacklistSchema = new Schema({\n    token: token,\n    createdAt: createdAt,\n    }, \n    {timestamps: true}\n);\n\nconst blacklistModel = mongoose.model(\"blacklistModel\", BlacklistSchema);\n\nexport default blacklistModel; \n ",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/models/blacklistModel.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 105,
+    "kind": "variable",
+    "name": "Schema",
+    "memberof": "src/models/blacklistModel.js",
+    "static": true,
+    "longname": "src/models/blacklistModel.js~Schema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/blacklistModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 106,
+    "kind": "variable",
+    "name": "token",
+    "memberof": "src/models/blacklistModel.js",
+    "static": true,
+    "longname": "src/models/blacklistModel.js~token",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/blacklistModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"required\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 107,
+    "kind": "variable",
+    "name": "createdAt",
+    "memberof": "src/models/blacklistModel.js",
+    "static": true,
+    "longname": "src/models/blacklistModel.js~createdAt",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/blacklistModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"default\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 108,
+    "kind": "variable",
+    "name": "BlacklistSchema",
+    "memberof": "src/models/blacklistModel.js",
+    "static": true,
+    "longname": "src/models/blacklistModel.js~BlacklistSchema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/blacklistModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 109,
+    "kind": "variable",
+    "name": "blacklistModel",
+    "memberof": "src/models/blacklistModel.js",
+    "static": true,
+    "longname": "src/models/blacklistModel.js~blacklistModel",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/models/blacklistModel.js",
+    "importStyle": "blacklistModel",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "file",
+    "name": "src/models/cnpjModel.js",
+    "content": "import mongoose from \"mongoose\";\n\nconst {Schema} = mongoose;\n\nconst object = {\n    type:String,\n    required:true,\n    lowercase:true,\n}\n\nconst userId ={\n    type: String,\n    required: true,\n}\n\nconst createdAt = {\n    type:Date,\n    default:Date.now,\n}\n\nconst CnpjSchema = new Schema({\n    userId: userId,\n    cnpjName: object,\n    cnpj: object,\n    cnpjPhone: object,\n    cnpjAddress:object,\n    cnpjEmail: object,\n    createdAt: createdAt,\n    }, \n    {timestamps: true}\n);\n\nconst cnpjModel = mongoose.model(\"cnpjModel\", CnpjSchema);\n\nexport default cnpjModel;\n",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/models/cnpjModel.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 111,
+    "kind": "variable",
+    "name": "Schema",
+    "memberof": "src/models/cnpjModel.js",
+    "static": true,
+    "longname": "src/models/cnpjModel.js~Schema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/cnpjModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 112,
+    "kind": "variable",
+    "name": "object",
+    "memberof": "src/models/cnpjModel.js",
+    "static": true,
+    "longname": "src/models/cnpjModel.js~object",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/cnpjModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"required\": boolean, \"lowercase\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 113,
+    "kind": "variable",
+    "name": "userId",
+    "memberof": "src/models/cnpjModel.js",
+    "static": true,
+    "longname": "src/models/cnpjModel.js~userId",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/cnpjModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"required\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 114,
+    "kind": "variable",
+    "name": "createdAt",
+    "memberof": "src/models/cnpjModel.js",
+    "static": true,
+    "longname": "src/models/cnpjModel.js~createdAt",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/cnpjModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"default\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 115,
+    "kind": "variable",
+    "name": "CnpjSchema",
+    "memberof": "src/models/cnpjModel.js",
+    "static": true,
+    "longname": "src/models/cnpjModel.js~CnpjSchema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/cnpjModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 116,
+    "kind": "variable",
+    "name": "cnpjModel",
+    "memberof": "src/models/cnpjModel.js",
+    "static": true,
+    "longname": "src/models/cnpjModel.js~cnpjModel",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/models/cnpjModel.js",
+    "importStyle": "cnpjModel",
+    "description": null,
+    "lineNumber": 33,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 117,
+    "kind": "file",
+    "name": "src/models/payModel.js",
+    "content": "import mongoose from \"mongoose\";\n\nconst {Schema} = mongoose;\nconst object = {\n    type:String,\n    required:true,\n    lowercase:true,\n}\n\nconst createdAt = {\n    type:Date,\n    default:Date.now,\n}\n\nconst PaySchema = new Schema({\n    pixId: object,\n    status: object,\n    value: object,\n    txid: object,\n    QRCodeImage: {type:String, required: true},\n    copiaecola: {type:String, required: true},\n    createdAt: createdAt,\n    userId: { type: Schema.Types.ObjectId, ref: \"userModel\" },\n    }, \n    {timestamps: true}\n);\n\nconst payModel = mongoose.model(\"payModel\", PaySchema);\n\nexport default payModel;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/models/payModel.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 118,
+    "kind": "variable",
+    "name": "Schema",
+    "memberof": "src/models/payModel.js",
+    "static": true,
+    "longname": "src/models/payModel.js~Schema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/payModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 119,
+    "kind": "variable",
+    "name": "object",
+    "memberof": "src/models/payModel.js",
+    "static": true,
+    "longname": "src/models/payModel.js~object",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/payModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"required\": boolean, \"lowercase\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 120,
+    "kind": "variable",
+    "name": "createdAt",
+    "memberof": "src/models/payModel.js",
+    "static": true,
+    "longname": "src/models/payModel.js~createdAt",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/payModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"default\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 121,
+    "kind": "variable",
+    "name": "PaySchema",
+    "memberof": "src/models/payModel.js",
+    "static": true,
+    "longname": "src/models/payModel.js~PaySchema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/payModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 122,
+    "kind": "variable",
+    "name": "payModel",
+    "memberof": "src/models/payModel.js",
+    "static": true,
+    "longname": "src/models/payModel.js~payModel",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/models/payModel.js",
+    "importStyle": "payModel",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "file",
+    "name": "src/models/userModel.js",
+    "content": "                                                                                                                                                                                                            import mongoose from \"mongoose\";\n\nconst {Schema} = mongoose;\n\nconst object = {\n    type:String,\n    required:true,\n    lowercase:true,\n}\n\nconst pass = {\n    type:String,\n    required:true,\n}\n\nconst createdAt = {\n    type:Date,\n    default:Date.now,\n}\n\nconst UserSchema = new Schema({\n    userName: object,\n    userCpf: object,\n    userAddress: object,\n    userPhone: object,\n    userEmail: object,\n    userGender: object,\n    userEthnicity: object,\n    howFindOut: object,\n    userCategory: object,\n    password: pass,\n    createdAt:createdAt,\n    payStatus: {\n        type: Schema.Types.ObjectId,\n        ref: 'payModel'\n      }\n    }, \n    {timestamps: true}\n);\n\nconst userModel = mongoose.model(\"userModel\", UserSchema);\n\nexport default userModel;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/models/userModel.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 124,
+    "kind": "variable",
+    "name": "Schema",
+    "memberof": "src/models/userModel.js",
+    "static": true,
+    "longname": "src/models/userModel.js~Schema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/userModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 125,
+    "kind": "variable",
+    "name": "object",
+    "memberof": "src/models/userModel.js",
+    "static": true,
+    "longname": "src/models/userModel.js~object",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/userModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"required\": boolean, \"lowercase\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 126,
+    "kind": "variable",
+    "name": "pass",
+    "memberof": "src/models/userModel.js",
+    "static": true,
+    "longname": "src/models/userModel.js~pass",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/userModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"required\": boolean}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 127,
+    "kind": "variable",
+    "name": "createdAt",
+    "memberof": "src/models/userModel.js",
+    "static": true,
+    "longname": "src/models/userModel.js~createdAt",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/userModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"type\": *, \"default\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 128,
+    "kind": "variable",
+    "name": "UserSchema",
+    "memberof": "src/models/userModel.js",
+    "static": true,
+    "longname": "src/models/userModel.js~UserSchema",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/models/userModel.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 129,
+    "kind": "variable",
+    "name": "userModel",
+    "memberof": "src/models/userModel.js",
+    "static": true,
+    "longname": "src/models/userModel.js~userModel",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/models/userModel.js",
+    "importStyle": "userModel",
+    "description": null,
+    "lineNumber": 41,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 130,
+    "kind": "file",
+    "name": "src/router/authRouter.js",
+    "content": "import { Router } from \"express\";\nimport authController from \"../controllers/authControllers/index.js\";\nimport verifyToken from \"../middware/authMiddware.js\";\n\nconst authRouter = Router();\nconst controller = new authController();\n\nauthRouter.post(\"/login\",controller.loginController.bind(controller));\nauthRouter.post(\"/logout\", verifyToken, controller.logoutController.bind(controller));\nauthRouter.get(\"/blacklist\", controller.getBlackList.bind(controller));\nauthRouter.post(\"/forgotpass\", controller.forgotPassController.bind(controller));\n\nexport default authRouter;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/router/authRouter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 131,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "src/router/authRouter.js",
+    "static": true,
+    "longname": "src/router/authRouter.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/router/authRouter.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 132,
+    "kind": "variable",
+    "name": "authRouter",
+    "memberof": "src/router/authRouter.js",
+    "static": true,
+    "longname": "src/router/authRouter.js~authRouter",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/router/authRouter.js",
+    "importStyle": "authRouter",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "file",
+    "name": "src/router/exemple.js",
+    "content": "import { Router } from \"express\";\nimport exemple from \"../controllers/exempleControllers/index.js\";\n\nconst exempleRouter = Router();\nconst controller = new exemple();\n\nexempleRouter.get(\"/exemple\", controller.getExempleController.bind(controller))\n\nexport default exempleRouter",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/router/exemple.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 134,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "src/router/exemple.js",
+    "static": true,
+    "longname": "src/router/exemple.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/router/exemple.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 135,
+    "kind": "variable",
+    "name": "exempleRouter",
+    "memberof": "src/router/exemple.js",
+    "static": true,
+    "longname": "src/router/exemple.js~exempleRouter",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/router/exemple.js",
+    "importStyle": "exempleRouter",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 136,
+    "kind": "file",
+    "name": "src/router/paymentRouter.js",
+    "content": "import { Router } from \"express\";\n\nimport paymentController from \"../controllers/paymentControllers/index.js\";\nconst paymentRouter = Router()\nconst controller = new paymentController()\npaymentRouter.post(\"/charge\",controller.CreateCharge.bind(controller))\npaymentRouter.get(\"/list\", controller.listChargesController.bind(controller))\npaymentRouter.get(\"/status/:txid\", controller.getPaymentStatus.bind(controller))\nexport default paymentRouter",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/router/paymentRouter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 137,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "src/router/paymentRouter.js",
+    "static": true,
+    "longname": "src/router/paymentRouter.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/router/paymentRouter.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 138,
+    "kind": "variable",
+    "name": "paymentRouter",
+    "memberof": "src/router/paymentRouter.js",
+    "static": true,
+    "longname": "src/router/paymentRouter.js~paymentRouter",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/router/paymentRouter.js",
+    "importStyle": "paymentRouter",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 139,
+    "kind": "file",
+    "name": "src/router/router.js",
+    "content": "import { Router } from \"express\";\nimport  exempleRouter from \"./exemple.js\";\nimport registerRouter from \"./user.js\";\nimport paymentRouter from \"./paymentRouter.js\";\nimport authRouter from \"./authRouter.js\";\n\nconst router = Router();\nrouter.use('/user', registerRouter);\nrouter.use('/exemple', exempleRouter);\nrouter.use(\"/pay\", paymentRouter);\nrouter.use(\"/auth\", authRouter);\n\nexport default router;\n",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/router/router.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 140,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/router/router.js",
+    "static": true,
+    "longname": "src/router/router.js~router",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/router/router.js",
+    "importStyle": "router",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 141,
+    "kind": "file",
+    "name": "src/router/user.js",
+    "content": "import { Router } from \"express\";\nimport userController from \"../controllers/userControllers/index.js\";\nimport verifyToken from \"../middware/authMiddware.js\";\n\nconst registerRouter = Router();\nconst controller = new userController();\n\nregisterRouter.post(\"/register\",controller.createUserController.bind(controller));\nregisterRouter.post(\"/registerCnpj\",controller.createCnpjController.bind(controller));\nregisterRouter.get(\"/listUser\",controller.getUserController.bind(controller));\nregisterRouter.get(\"/listCnpj\",controller.getCnpjController.bind(controller));\nregisterRouter.get(\"/listUser/:userId\", verifyToken, controller.getByIdController.bind(controller));\nregisterRouter.delete(\"/deleteUser/:userId\", controller.deleteUserController.bind(controller));\n\n\nexport default registerRouter;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/router/user.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 142,
+    "kind": "variable",
+    "name": "controller",
+    "memberof": "src/router/user.js",
+    "static": true,
+    "longname": "src/router/user.js~controller",
+    "access": "public",
+    "export": false,
+    "importPath": "teste/src/router/user.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 143,
+    "kind": "variable",
+    "name": "registerRouter",
+    "memberof": "src/router/user.js",
+    "static": true,
+    "longname": "src/router/user.js~registerRouter",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/router/user.js",
+    "importStyle": "registerRouter",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 144,
+    "kind": "file",
+    "name": "src/utils/confirmEmail.js",
+    "content": "import userModel from \"../models/userModel.js\";\nimport ticketPdf from \"./puppeteerPdf.js\";\nimport templateEmailConfirm from \"./templateEmailConfirm.js\";\n\nasync function sendConfirmEmail(userId, password){\n  \n    try {\n        const pdf = await ticketPdf(userId);  \n        const attachments = []\n        for (let i = 0; i < pdf.length; i++){\n            const attach = {\n                filename: `Ingresso_dia_${27 + i}.pdf`,\n                content: pdf[i]\n            }\n            attachments.push(attach)\n        }\n\n        const user = await userModel.findById(userId);\n        const userEmail = user.userEmail;\n        const name = user.userName.split(\" \");\n        const userName = name[0].charAt(0).toUpperCase() + name[0].slice(1);\n        \n        let options = {\n            from: process.env.EMAILACCOUNT, \n            to: userEmail,\n            subject: \"Confirmação de inscrição\",\n            html: templateEmailConfirm(userName, password),\n            attachments\n        };    \n        return options\n       \n     \n    } catch (error) {\n        return console.log(\"Error: \" + error) \n    }\n}   \n\nexport default sendConfirmEmail;\n\n",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/confirmEmail.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 145,
+    "kind": "function",
+    "name": "sendConfirmEmail",
+    "memberof": "src/utils/confirmEmail.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/utils/confirmEmail.js~sendConfirmEmail",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/confirmEmail.js",
+    "importStyle": "sendConfirmEmail",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [
+      {
+        "name": "userId",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "password",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 146,
+    "kind": "file",
+    "name": "src/utils/crypt.js",
+    "content": "import bcrypt from 'bcrypt';\nimport jwt from 'jsonwebtoken';\n\nclass Crypto {\n\n    async cryptPass(password) {\n        const salt = await bcrypt.genSalt(12);\n        const passwordHash = await bcrypt.hash(password, salt);\n        return passwordHash;\n    }\n\n    createToken(user, timer) {\n        const secret = process.env.SECRET;\n        const token = jwt.sign({\n            id: user._id.toString(),\n        },\n            secret,\n            { expiresIn: timer },\n        );\n        return token;\n\n    }\n\n    expirationToken(token) {\n        const secret = process.env.SECRET;\n        const decoded = jwt.verify(token, secret);\n        const expirationTime = new Date(decoded.exp * 1000);\n        const currentTime = new Date();\n        const timeDiff = expirationTime - currentTime;\n        const minutesRemaining = Math.floor(timeDiff / (1000 * 60));\n\n        return minutesRemaining;\n    }\n\n    checkPassWord(password, userPassword) {\n        return bcrypt.compareSync(password, userPassword);\n    }\n\n    logoutToken(idUser) {\n        try {\n            const secret = process.env.SECRET;\n            const deleteToken = jwt.sign({ id: idUser }, secret, { expiresIn: 2 },);\n\n            console.log(\"Token expirado com sucesso\");\n\n            return deleteToken;\n\n        } catch (error) {\n            console.log(error);\n            return res.status(500).json({ code: \"Failure\", message: \"Erro interno do servidor\" });\n        }\n    }\n}\n\nexport default Crypto;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/crypt.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 147,
+    "kind": "class",
+    "name": "Crypto",
+    "memberof": "src/utils/crypt.js",
+    "static": true,
+    "longname": "src/utils/crypt.js~Crypto",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/crypt.js",
+    "importStyle": "Crypto",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 148,
+    "kind": "method",
+    "name": "cryptPass",
+    "memberof": "src/utils/crypt.js~Crypto",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/utils/crypt.js~Crypto#cryptPass",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "password",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 149,
+    "kind": "method",
+    "name": "createToken",
+    "memberof": "src/utils/crypt.js~Crypto",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/utils/crypt.js~Crypto#createToken",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true,
+    "params": [
+      {
+        "name": "user",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "timer",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 150,
+    "kind": "method",
+    "name": "expirationToken",
+    "memberof": "src/utils/crypt.js~Crypto",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/utils/crypt.js~Crypto#expirationToken",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [
+      {
+        "name": "token",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 151,
+    "kind": "method",
+    "name": "checkPassWord",
+    "memberof": "src/utils/crypt.js~Crypto",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/utils/crypt.js~Crypto#checkPassWord",
+    "access": "public",
+    "description": null,
+    "lineNumber": 35,
+    "undocument": true,
+    "params": [
+      {
+        "name": "password",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "userPassword",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 152,
+    "kind": "method",
+    "name": "logoutToken",
+    "memberof": "src/utils/crypt.js~Crypto",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/utils/crypt.js~Crypto#logoutToken",
+    "access": "public",
+    "description": null,
+    "lineNumber": 39,
+    "undocument": true,
+    "params": [
+      {
+        "name": "idUser",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 153,
+    "kind": "file",
+    "name": "src/utils/date.js",
+    "content": "class GetDate {\n\n    getDate() {\n\n        var dateToday = new Date();\n        var day = String(dateToday.getDate()).padStart(2, '0');\n        var month = String(dateToday.getMonth() + 1).padStart(2, '0');\n        var year = dateToday.getFullYear();\n\n        var hour = String(dateToday.getHours()).padStart(2, '0');\n        var minute = String(dateToday.getMinutes()).padStart(2, '0');\n        var hourFormat = hour + ':' + minute;\n\n        var dateFormat = '[' + day + '/' + month + '/' + year + ' ' + hourFormat + ']';\n        return dateFormat;\n\n    }\n}\n\nexport default GetDate;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/date.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 154,
+    "kind": "class",
+    "name": "GetDate",
+    "memberof": "src/utils/date.js",
+    "static": true,
+    "longname": "src/utils/date.js~GetDate",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/date.js",
+    "importStyle": "GetDate",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 155,
+    "kind": "method",
+    "name": "getDate",
+    "memberof": "src/utils/date.js~GetDate",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/utils/date.js~GetDate#getDate",
+    "access": "public",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 156,
+    "kind": "file",
+    "name": "src/utils/passRandom.js",
+    "content": "class GeneratePass {\n\n    async generatePass() {\n        const uppercaseLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';\n        const lowercaseLetters = 'abcdefghijklmnopqrstuvwxyz';\n        const numbers = '0123456789';\n        const specialCharacters = '!@#$%&()-_=+[{]}<>?';\n      \n        let password = '';\n        \n        password += uppercaseLetters[Math.floor(Math.random() * uppercaseLetters.length)];\n        password += lowercaseLetters[Math.floor(Math.random() * lowercaseLetters.length)];\n        password += numbers[Math.floor(Math.random() * numbers.length)];\n        password += specialCharacters[Math.floor(Math.random() * specialCharacters.length)];\n      \n        for (let i = 0; i < 2; i++) {\n          const characters = uppercaseLetters + lowercaseLetters + numbers + specialCharacters;\n          password += characters[Math.floor(Math.random() * characters.length)];\n        }\n    \n        password = password.split('').sort(() => 0.5 - Math.random()).join('');\n      \n        return password;\n      }\n      \n}\n\nexport default GeneratePass;  ",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/passRandom.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 157,
+    "kind": "class",
+    "name": "GeneratePass",
+    "memberof": "src/utils/passRandom.js",
+    "static": true,
+    "longname": "src/utils/passRandom.js~GeneratePass",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/passRandom.js",
+    "importStyle": "GeneratePass",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 158,
+    "kind": "method",
+    "name": "generatePass",
+    "memberof": "src/utils/passRandom.js~GeneratePass",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/utils/passRandom.js~GeneratePass#generatePass",
+    "access": "public",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 159,
+    "kind": "file",
+    "name": "src/utils/puppeteerPdf.js",
+    "content": "import puppeteer from \"puppeteer\";\nimport userModel from \"../models/userModel.js\";\nimport qrCodeController from \"./qrCodeController.js\";\nimport Constants from \"../constants/constants.js\";\n\nasync function ticketPdf(userId) {\n    const id = userId;\n    const dates = [27, 28, 29];\n    const colors = [`#F37C16`, `#8DCE25`, `#31C5F5`];\n    const hours = ['17:30', '08:00', '08:00'];\n\n    try {\n        const user = await userModel.findById(id);\n\n        if (id == null || id == undefined) {\n            return console.log('Usuário não encontrado');\n        }\n        if (!user) {\n            return console.log('Usuário não encontrado');\n        }\n\n        function upperInitials(text) {\n            var words = text.split(\" \");\n            var upperList = [];\n\n            for (var i = 0; i < words.length; i++) {\n                var word = words[i];\n                var capitalizedWord = word.charAt(0).toUpperCase() + word.slice(1);\n                upperList.push(capitalizedWord);\n            }\n\n            return upperList.join(\" \");\n        }\n        const userName = upperInitials(user.userName);\n        const userCategory = upperInitials(user.userCategory);\n\n\n        async function createPdf(date, color, hour, qrCodeImg, browser) {\n            const page = await browser.newPage();\n\n            const html = `\n                    <html>\n                    <head>\n                    \n                    <style>\n                    @import url(${Constants.FontPdf});\n\n                        * {\n                        margin: 0px;\n                        padding: 0px;\n                    }\n                    \n                    #body{\n                        display: flex;\n                        flex-direction: column;\n                    }\n                    \n                    .corpoPdf{\n                        position: absolute;\n                        width: 485px;\n                        height: 771px;\n                        background-color: #FEEAE9;\n                        border-radius: 40px;\n                        overflow: hidden;\n                        \n                    }\n                    \n                    .contentParticipant{\n                        position: relative;\n                        display: flex;\n                        flex-direction: column;\n                        margin-top: 24px;\n                        margin-left: 30px;\n                        margin-right: 30px;\n                    }\n                    \n                    .logoFedrann{\n                        position: relative;\n                        width: 207.63px;\n                        height: 50.61px;\n                    }\n                    \n                    .bottomQR{\n                        display: flex;\n                        flex-direction: column;\n                        position: absolute;\n                        background-color: ${color};\n                        width: 485px;\n                        height: 384px;\n                        align-items: center;\n                        top: 387px;\n                    }\n                    \n                    .sociedadeCivil{\n                        position: relative;\n                        display: flex;\n                        flex-direction: row;\n                        margin-top: 23.4px;\n                    }\n                    \n                    .dataFromVar{\n                        position: relative;\n                        font-family: 'SST Typewriter', sans-serif;\n                        font-style: normal;\n                        font-weight: 700;\n                        font-size: 15px;\n                        line-height: 20px;\n                        color: ${color};\n                    }\n                    \n                    .circle{\n                        position: absolute;\n                        width: 20px;\n                        height: 20px;\n                        background-color: ${color};\n                        border-radius: 40px;\n                        left: 410px;\n                    }\n                    \n                    .underline{\n                        width: 431px;\n                        height: 1px;\n                        background-color:rgba(0, 0, 0, 0.15) ;\n                    }\n                    \n                    .nameAndAddress{\n                        margin-top: 35px;\n                    }\n                    \n                    .underLineText{\n                        position: relative;\n                        font-family: 'SST Typewriter', sans-serif;\n                        font-style: normal;\n                        font-weight: 700;\n                        font-size: 15px;\n                        line-height: 20px;\n                        color: rgba(0, 0, 0, 0.15);\n                    }\n                    \n                    .dateAndHour{\n                        display: flex;\n                        flex-direction: row;\n                        \n                    }\n                    \n                    .blocoDate{\n                        margin-top: 35px;\n                    }\n                    \n                    .blocoDate:last-child{\n                        margin-left: 20px;\n                    }\n                    \n                    .underlineDate{\n                        width: 205px;\n                        height: 1px;\n                        background-color:rgba(0, 0, 0, 0.15) ;  \n                    } \n\n                    .bottomQR{\n                        display: flex;\n                        flex-direction: column;\n                        align-items: center;\n                        justify-content: center;\n                    }\n\n                    .qrCode{\n                        width: 250px;\n                    }\n                    \n                    </style>\n                    </head>\n                \n                    <body>\n                    <div class=\"corpoPdf\">\n                        <div class=\"contentParticipant\">\n                        <img src=\"${Constants.LogoFedrannPdf}\" alt=\"Foto\" class=\"logoFedrann\">\n                        <div class=\"sociedadeCivil\">\n                            <p class=\"dataFromVar\">${userCategory}</p>\n                            <div class=\"circle\"></div>\n                            </div>\n                \n                            <div class=\"nameAndAddress\">\n                            <p class=\"dataFromVar\">Centro Universitário UniFanor /// Campus Dunas</p>\n                            <div class=\"underline\"></div>\n                            <p class=\"underLineText\">ENDEREÇO</p>\n                            </div>\n                            <div class=\"nameAndAddress\">\n                            <p class=\"dataFromVar\">${userName}</p>\n                            <div class=\"underline\"></div>\n                            <p class=\"underLineText\">PARTICIPANTE</p>\n                            </div>\n                            \n                            <div class=\"dateAndHour\">\n                            <div class=\"blocoDate\">\n                                <p class=\"dataFromVar\">${hour} /// GMT - 3 </p>\n                                <div class=\"underlineDate\"></div>\n                                <p class=\"underLineText\">HORARIO DE INICIO</p>\n                            </div>\n                            <div class=\"blocoDate\">\n                                <p class=\"dataFromVar\">${date} de novembro </p>\n                                <div class=\"underlineDate\"></div>\n                                <p class=\"underLineText\">HORARIO DE INICIO</p>\n                            </div>\n                            </div>\n                        </div>\n                        \n                        <div class=\"bottomQR\">\n                            <img src=\"${qrCodeImg}\" alt=\"\" class=\"qrCode\">\n                        </div>\n                    </div>\n                    </body>\n                    </html>\n                    `\n            await page.setContent(html, { waitUntil: 'networkidle2' });\n            const creatingPdf = await page.pdf({\n                margin: { top: '25px', right: '50px', bottom: '25px', left: '50px' },\n                printBackground: true,\n                format: 'A5',\n            });\n            return creatingPdf;\n\n        };\n        const pdfs = [];\n        const browser = await puppeteer.launch({ headless: false });\n        const qrCodeImg = `data:image/jpeg;base64,${await qrCodeController(id)}`\n        \n        for (let i = 0; i < dates.length; i++) {\n            pdfs.push(createPdf(dates[i], colors[i], hours[i], qrCodeImg, browser))\n        }\n\n        const createdPdfs = await Promise.all(pdfs);\n        await browser.close();\n        return createdPdfs;\n\n    } catch (error) {\n        return console.log(\"Error:\" + error);\n    }\n}\n\nexport default ticketPdf;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/puppeteerPdf.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 160,
+    "kind": "function",
+    "name": "ticketPdf",
+    "memberof": "src/utils/puppeteerPdf.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/utils/puppeteerPdf.js~ticketPdf",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/puppeteerPdf.js",
+    "importStyle": "ticketPdf",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "userId",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 161,
+    "kind": "file",
+    "name": "src/utils/qrCodeController.js",
+    "content": "import qrimage from \"qr-image\"\nimport QrcodeConfig from \"../config/qrCodeConfig.js\"\n\n async function qrCodeController(id){\n    const cfg = new QrcodeConfig\n    const path = cfg.localhost\n    const idUser = id.toString();\n    const URL = `${path}/validate/${idUser}`\n    const qrCode = qrimage.imageSync(URL, {type: 'png'})\n    return qrCode.toString(\"base64\");\n}\nexport default qrCodeController",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/qrCodeController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 162,
+    "kind": "function",
+    "name": "qrCodeController",
+    "memberof": "src/utils/qrCodeController.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/utils/qrCodeController.js~qrCodeController",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/qrCodeController.js",
+    "importStyle": "qrCodeController",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "id",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 163,
+    "kind": "file",
+    "name": "src/utils/templateEmailConfirm.js",
+    "content": "import Constants from \"../constants/constants.js\"\n\nexport default function templateEmailConfirm(userName, userPass){\n    return (\n        `\n        <html>\n            <head>\n                <style>\n                @import url(${Constants.FontConfirmEmail});\n                *{\n                    margin: 0;\n                    padding: 0;\n                }\n                body {\n                    margin: 0;\n                    padding: 0;\n                }\n        \n                table {\n                    border-spacing: 0;\n                }\n        \n               .wrapper{\n                table-layout: fixed;\n                width: 100%;\n               }\n                \n                .white-box {\n                    background-color: #F6F6E9;\n                    width: 718px;\n                    height: 24px;\n                    border-spacing: 0;\n                    padding: 0;\n                    margin: 0;\n                    color: #692900;\n                    white-space: nowrap;\n                    overflow: hidden;\n                }\n        \n                .text-image-column {\n                    width: 718px;\n                    height: 249px;\n                    overflow: hidden;\n                }\n                .text-image-column .column{\n                    display: inline;\n                    vertical-align: top;\n                }\n        \n                .green-box{\n                    width: 718px;\n                    height: 626px;\n                    background-color: #1D7151;\n                    color: #FFFFFF;\n                }\n                .ticket-box .column-ticket{\n                    display: inline;\n                    vertical-align: top;\n                }\n                .pass-box .column-pass{\n                    display: inline;\n                    vertical-align: top;\n                }\n        \n                .yellow-box{\n                    white-space: nowrap;\n                }\n                .programation-column .column-prog{\n                    display: inline;\n                    vertical-align: top;\n                }\n        \n                .botao-site .column-btn{\n                    display: inline;\n                    white-space: nowrap;\n                    vertical-align: middle;\n                }\n                .title-green-box{\n                    font-family: 'Cardo', serif;\n                    font-weight: 400;\n                    word-spacing: 2px;\n                }\n                .text-green-box{\n                    font-family: 'Lato', sans-serif;\n                    font-size: 16px;\n                    font-weight: 400;\n                    word-spacing: 2px;\n                }\n                img{\n                    display: block;\n                }\n                </style>\n            </head>\n        <body>\n                <center class=\"wrapper\">\n                <table> <tr> <td> \n                    <table class=\"white-box\" style=\"overflow: hidden; width: 718px\">\n                        <tr>\n                            <td class=\"text-image-column\">\n\n                                <table class=\"column\">\n                                    <tr>\n                                        <td colspan=\"2\" style=\" padding-top: 20px; padding-bottom:0\">\n                                            <h1 class=\"title\" style=\"font-size: 50px; font-family: 'Cardo', serif; font-weight: 400; margin-left: 36px\">Congresso <br> Fedrann</h1>\n                                            <p class=\"text-white-box\" style=\"margin-left: 36px;padding-top: 30px; font-size: 30px; font-family: 'Lato', sans-serif\">Olá ${userName}</p>\n                                        </td>\n                                    </tr>\n                                </table>\n\n                                <table class=\"column\" style=\"font-size: 0;\">\n                                    <tr>\n                                        <td style=\"padding: 0;\">\n                                            <img class=\"img-white-box\" style=\"width: 375px; height: 100%; margin-left: 92px\" src=\"${Constants.LecturePhoto}\" alt=\"\">\n                                        </td>\n                                    </tr>\n                                </table>\n                            </td>\n                        </tr>\n                    </table>\n\n                    <table class=\"green-box\">\n                        <tr>\n                            <td class=\"pass-box\" style=\"padding-top: 40px;\">\n                                <table class=\"column-pass\">\n                                    <tr>\n                                        <td style=\"padding-bottom:90px ;margin-right: 40px;\">\n                                            <img style=\"width: 250px;margin-left: 40px;\" src=\"${Constants.LockPhoto}\" alt=\"\">\n                                        </td>\n                                    </tr>\n                                </table>\n\n                                <table class=\"column-pass\">\n                                    <tr>\n                                        <td style=\"padding-top: 50px;color:#FFFFFF\">\n                                            <p style=\"font-size: 38px; padding-bottom: 20px; margin-left: 40px; color:#FFFFFF\" class=\"title-green-box\"> Acesso ao site</p>\n                                            <p style=\"padding-bottom: 20px; margin-left: 40px;color:#FFFFFF\" class=\"text-green-box\">Para logar no site utilize o email previamente <br> cadastrado e insira a senha abaixo.</p>\n                                            \n                                            <table class=\"text-green-box\" style=\"margin-left: 40px;;background-color: #ED4322; width: 315px; margin-bottom: 20px; padding-bottom:8px;  padding-top:8px; padding-left:14px\">Senha: ${userPass} </table>\n                                                <table style=\"background-color: #fffb7a; width: 144px; height: 28px; padding-top: 10px;margin-left: 40px; padding-bottom: 2px; color:#692900;\">\n                                                    <tr>\n                                                        <td class=\"botao-site\" style=\" vertical-align:top\">\n                                                            <center>\n                                                            <a href=\"${process.env.LINKACESS}\" style=\"text-decoration: none;color: #000000\" target=\"_blank\">\n\n                                                                <table class=\"column-btn\">\n                                                                    <tr>\n                                                                        <td>\n                                                                            <p class=\"text-green-box style=\"margin-bottom: 2%\">Acesse o site </p> \n                                                                        </td>\n                                                                    </tr>\n                                                                </table>\n                        \n                                                                <table class=\"column-btn\">\n                                                                    <tr>\n                                                                        <td>\n                                                                            <img style=\"vertical-align: middle; margin-left:5px; margin-bottom: 3%\" src=\"${Constants.ArrowEmail}\" alt=\"\">\n                        \n                                                                        </td>\n                                                                    </tr>\n                                                                </table>\n                                                                </a>\n                                                            </center>\n                                                        </td>\n                                                    </tr>\n                                                </table>\n                                        </td>\n                                    </tr>\n                                </table>\n                            </td>\n                        </tr>\n\n                        <tr>\n                            <td class=\"ticket-box\" style=\"margin-bottom: 20px; margin-left: 40px\">\n                                <table class=\"column-ticket\">\n                                    <tr>\n                                        <td style=\"margin-right: 40px;\">\n                                            <img style=\"margin-left: 40px; margin-bottom: 30px\" src=\"${Constants.TicketPhoto}\" alt=\"\">\n                                        </td>\n                                    </tr>\n                                </table>\n\n                                <table class=\"column-ticket\">\n                                    <tr>\n                                        <td style=\"padding-bottom: 40px;\">\n                                            <p style=\"font-size: 38px; padding-bottom: 20px; margin-left:40px\" class=\"title-green-box\">Ingressos</p>\n                                            <p style=\"padding-bottom: 0px; margin-left:40px\" class=\"text-green-box\">Para ter acesso ao evento, é obrigatório <br> apresentar o ingresso. Faça download do <br> mesmo  nos anexos  deste email.</p>\n                                        </td>\n                                    </tr>\n                                </table>\n                            </td>\n                        </tr>\n                    </table>\n\n                    <table class=\"yellow-box\" style=\"background-color: #fffb7a; width: 718px\">\n                        <tr>\n                            <td class=\"programation-column\">\n\n                                <table class=\"column-prog\">\n                                    <tr>\n                                        <td style=\"padding-left: 0px;\">\n                                            <h1 class=\"title-green-box\" style=\"font-size: 50px;margin-left: 40px;margin-bottom: 40px; margin-top: 20px; color:#1D7151\">Programação</h1>\n                                            <p class=\"text-green-box\" style=\"margin-left: 40px;margin-bottom: 40px; color: #B62D07\">Acesse a programação do evento</p>\n                                                <table style=\"background-color: #1D7151; width: 144px; height: 28px; padding-top: 10px;margin-left: 40px; padding-bottom: 2px; color:#FFFFFF;\">\n                                                <tr>\n                                                    <td class=\"botao-site\" style=\"vertical-align: top;\" >\n                                                        <center>\n                                                         <a href=\"${process.env.LINKPROGRAMATION}\" style=\"text-decoration: none;color:#FFFFFF\" target=\"_blank\">\n                                                            <table class=\"column-btn\">\n                                                                <tr>\n                                                                    <td>\n                                                                        <p class=\"text-green-box\" style=\"margin-bottom: 1%\">Programação</p> \n                                                                    </td>\n                                                                </tr>\n                                                            </table>\n                    \n                                                            <table class=\"column-btn\">\n                                                                <tr>\n                                                                    <td>\n                                                                        <img style=\"vertical-align: middle; margin-left:5px; margin-bottom: 3%\" src=\"${Constants.ArrowEmail}\"  alt=\"Arrow\">\n                    \n                                                                    </td>\n                                                                </tr>\n                                                            </table>\n                                                              </a>\n                                                        </center>\n                                                    </td>\n                                                </tr>\n                                            </table>\n                                      \n                                        </td>\n                                    </tr>\n                                </table>\n\n                                <table class=\"column-prog\" style=\"font-size: 0;\">\n                                    <tr>\n                                        <td style=\"padding: 0;\">\n                                            <img style=\"width: 300px; height: 100%;margin-left: 112px;\" src=\"${Constants.ClockPhoto}\" alt=\"\">\n                                        </td>\n                                    </tr>\n                                </table>\n                            </td>\n                        </tr>\n                    </table>\n                    </td> </tr> </table>\n                </center>\n            </body>\n        </html>\n        `\n    )\n}",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/templateEmailConfirm.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 164,
+    "kind": "function",
+    "name": "templateEmailConfirm",
+    "memberof": "src/utils/templateEmailConfirm.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/templateEmailConfirm.js~templateEmailConfirm",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/templateEmailConfirm.js",
+    "importStyle": "templateEmailConfirm",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "params": [
+      {
+        "name": "userName",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "userPass",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 165,
+    "kind": "file",
+    "name": "src/utils/transporter.js",
+    "content": "import transporter from \"../config/nodemailerConfig.js\";\n\n\nclass Transporter{\n    /**\n   * this is constructor description.\n   * @param {string} userEmail this is arg1 description.\n   * @param {string} password this is arg2 description.\n   * @param {string} res this is arg2 description.\n   */ \n    transporterForgotPass(userEmail, password, res){\n\n        /**\n         * @emits options\n         */\n        let options = {\n            from: \"flavicastelocc@gmail.com\",  //TODO: Colocar o email oficial\n            to: userEmail,\n            subject: \"Solicitação de mudança de senha\",\n            html: `<h1>Sua nova senha/h1> <br> ${password}`,\n           \n        };    \n        \n        /**\n         * @returns {number}\n         */\n        transporter.sendMail(options, function (error, info) {\n            if (error) {\n                console.log(error);\n                /**\n                 * @throws error when não dá\n                 */\n                res.status(500).json({code: \"Failure\", message: \"Erro ao enviar o email\"})\n            }\n\n            console.log(\"Sent: \" + info);\n            res.status(200).json({code: \"Success\", message: \"Email enviado com sucesso\", userEmail})\n            \n            })\n    }\n}\nexport default Transporter;",
+    "static": true,
+    "longname": "C:/Users/Samia/Desktop/Projetinhos/Teste de Automatização/Teste2/src/utils/transporter.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 166,
+    "kind": "class",
+    "name": "Transporter",
+    "memberof": "src/utils/transporter.js",
+    "static": true,
+    "longname": "src/utils/transporter.js~Transporter",
+    "access": "public",
+    "export": true,
+    "importPath": "teste/src/utils/transporter.js",
+    "importStyle": "Transporter",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 167,
+    "kind": "method",
+    "name": "transporterForgotPass",
+    "memberof": "src/utils/transporter.js~Transporter",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/utils/transporter.js~Transporter#transporterForgotPass",
+    "access": "public",
+    "description": "this is constructor description.",
+    "lineNumber": 11,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "userEmail",
+        "description": "this is arg1 description."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "password",
+        "description": "this is arg2 description."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": "this is arg2 description."
+      }
+    ],
+    "return": null
+  },
+  {
+    "kind": "index",
+    "content": "AAAAAAAAAAAAAAAAAAAA",
+    "longname": "C:\\Users\\Samia\\Desktop\\Projetinhos\\Teste de Automatização\\Teste2\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"teste\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"esdoc-external-nodejs-plugin\": \"^1.0.0\",\n    \"esdoc-publish-markdown-plugin\": \"^1.1.0\",\n    \"express\": \"^4.18.2\"\n  },\n  \"devDependencies\": {\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-brand-plugin\": \"^1.0.1\",\n    \"esdoc-custom-theme\": \"^1.4.2\",\n    \"esdoc-inject-style-plugin\": \"^1.0.0\",\n    \"esdoc-publish-html-plugin\": \"^1.1.2\",\n    \"esdoc-standard-plugin\": \"^1.0.0\"\n  }\n}\n",
+    "longname": "C:\\Users\\Samia\\Desktop\\Projetinhos\\Teste de Automatização\\Teste2\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": true,
+    "content": "Esse é um pequeno manual que eu ainda não sei fazer :D",
+    "longname": "C:\\Users\\Samia\\Desktop\\Projetinhos\\Teste de Automatização\\Teste2\\manual\\index.md",
+    "name": "./manual/index.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "C:\\Users\\Samia\\Desktop\\Projetinhos\\Teste de Automatização\\Teste2\\manual\\overview.md",
+    "name": "./manual/overview.md",
+    "content": "pra que isso serve?",
+    "static": true,
+    "access": "public"
+  }
+]
